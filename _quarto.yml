@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "xrrna.bio"
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+   
+  page-footer:
+    right:
+      - text: "Legal Note"
+        href: legal.qmd
+      - text: "Privacy"
+        href: privacy.qmd
+    background: light
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
