@@ -10,7 +10,7 @@ RNAs are essential biomolecules involved in many cellular processes, including g
 Exoribonuclease-resistant RNAs (xrRNAs) are a class of structural RNAs that possess the ability to halt exoribonucleases, resulting in a quantitative protection of RNA regions downstream and shielding them from degradation. Natural xrRNAs are found in many viruses, with varying capacities to impede exoribonucleases.
 
 ::: {.column-margin}
-![The 5'-3' exoribonuclease XRN1 is stalled by an xrRNA element (blue)](figures/xrRNA_schema.png)
+![The 5'-3' exoribonuclease XRN1 is stalled by an xrRNA element (blue) located in a viral 3'UTR](figures/xrRNA_schema.png)
 :::
 
 Our project is focused on creating _synthetic xrRNAs_ that can open up novel avenues for RNA-based therapeutics and research applications. We use cutting-edge _computational biology_ techniques and innovative _biochemistry_ approaches to design and optimize these RNAs, ontinually pushing the boundaries of RNA science.
