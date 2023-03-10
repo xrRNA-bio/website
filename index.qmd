@@ -1,18 +1,21 @@
 ---
-title: "We love exoribonuclease-resistant RNAs"
+title: "Exoribonuclease-Resistant RNAs: A Game Changer"
 description: "xrRNA.bio is a comprehensive platform for RNA researchers and enthusiasts alike."
+page-layout: full
+title-block-banner: true
 ---
 
-## The xrrna.bio project
+## What are xrRNAs?
 
 RNAs are essential biomolecules involved in many cellular processes, including gene expression and regulation. However, their instability and susceptibility to degradation by exoribonucleases pose a challenge for their use as therapeutic agents or as tools for molecular and synthetic biology research.
 
-Exoribonuclease-resistant RNAs (xrRNAs) are a class of structural RNAs that possess the ability to halt exoribonucleases, resulting in a quantitative protection of RNA regions downstream and shielding them from degradation. Natural xrRNAs are found in many viruses, with varying capacities to impede exoribonucleases.
+**Exoribonuclease-resistant RNAs (xrRNAs)** are a class of structural RNAs that possess the ability to halt exoribonucleases, resulting in a quantitative protection of RNA regions downstream and shielding them from degradation. Natural xrRNAs are found in many viruses, with varying capacities to impede exoribonucleases.
 
-::: {.column-margin}
-![The 5'-3' exoribonuclease XRN1 is stalled by an xrRNA element (blue) located in a viral 3'UTR](figures/xrRNA_schema.png)
-:::
 
-Our project is focused on creating _synthetic xrRNAs_ that can open up novel avenues for RNA-based therapeutics and research applications. We use cutting-edge _computational biology_ techniques and innovative _biochemistry_ approaches to design and optimize these RNAs, ontinually pushing the boundaries of RNA science.
+![](figures/xrRNA_schema_hor.png){fig-align="center" fig-alt="The 5'-3' exoribonuclease XRN1 is stalled by an xrRNA element (blue) located in a viral 3'UTR"}
+
+## The project
+
+Our project is focused on creating _synthetic xrRNAs_ that can open up novel avenues for RNA-based therapeutics and research applications. We use cutting-edge _computational biology_ techniques and innovative _biochemistry_ approaches to design and optimize these RNAs, continually pushing the boundaries of RNA science.
 
 We invite you to explore our website to learn more about the project, our team, and our vision for the future of xrRNA research. Thank you for your interest in our work.

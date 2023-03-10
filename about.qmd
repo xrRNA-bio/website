@@ -1,5 +1,13 @@
 ---
 title: "About"
+description: "[xrrna.bio](https://xrrna.bio) is the official website of an international research project on exoribonuclease-resistant RNAs (xrRNAs) between the University of Vienna, Austria and Leipzig University, Germany. "
+
 ---
 
-About this site
+Exoribonuclease-resistant RNAs (xrRNAs) are a class of structured RNAs that are resistant to degradation by cellular enzymes known as exoribonucleases. They can efficiently halt exoribonucleases, such as XRN1, and prevent degradation of downstream RNA. This unique property makes xrRNAs an attractive target for a wide range of research applications, from studying the basic mechanisms of RNA biology to developing new RNA therapeutics.
+
+Our research project is entitled _‘Design of synthetic RNase-resistant RNA structures and their integration in novel riboswitch constructs to regulate mRNA stability’_ and has been funded by the [Austrian Science Fund FWF](https://fwf.ac.at) and the [German Research Foundation DFG](https://www.dfg.de). 
+
+The project is lead by [Michael T. Wolfinger](https://michaelwolfinger.com) from the University of Vienna and [Mario Mörl](https://www.lw.uni-leipzig.de/en/institut-fuer-biochemie/arbeitsgruppen/biochemie-und-molekularbiologie-1/forschung) from the University of Leipzig. Together, their teams are working to design synthetic xrRNA structures that can be integrated into novel riboswitch constructs to regulate mRNA stability. The ultimate goal of the project is to develop new RNA-based tools and therapeutics that can be used to treat a wide range of human diseases.
+
+To achieve this goal, we are using a combination of advanced techniques in molecular biology, biochemistry, and bioinformatics. We are studying the interactions between xrRNAs and various cellular components, as well as developing new methods for synthesizing and modifying xrRNA structures. By leveraging these insights, we hope to unlock new insights into the fundamental principles of RNA biology and develop novel tools for synthetic biology and RNA therapeutics.

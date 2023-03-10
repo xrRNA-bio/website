@@ -5,7 +5,7 @@ website:
   title: "xrrna.bio"
   navbar:
     background: light
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd 
