@@ -1,7 +1,6 @@
 ---
 title: "About"
-description: "[xrrna.bio](https://xrrna.bio) is the official website of an international research project on exoribonuclease-resistant RNAs (xrRNAs) between the University of Vienna, Austria and Leipzig University, Germany. "
-
+description-meta: "xrrna.bio is the official website of an international research project focusing on the design of synthetic  exoribonuclease-resistant RNAs (xrRNAs)"
 ---
 
 [xrrna.bio](https://xrrna.bio) is the official website of an international research project on **exoribonuclease-resistant RNAs (xrRNAs)** between the University of Vienna, Austria and Leipzig University, Germany.

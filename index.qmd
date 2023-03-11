@@ -1,6 +1,6 @@
 ---
 title: "Exoribonuclease-Resistant RNAs: A Game Changer"
-description: "xrRNA.bio is a comprehensive platform for RNA researchers and enthusiasts alike."
+description-meta: "xrRNA.bio is a comprehensive platform for RNA researchers and enthusiasts alike."
 page-layout: full
 title-block-banner: false
 ---
