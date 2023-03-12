@@ -1,0 +1,5 @@
+# adjusted these html template files
+quarto/share/formats/html/pandoc/metadata.html:
+  add mtw-cc variable
+
+

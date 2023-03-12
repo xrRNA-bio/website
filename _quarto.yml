@@ -5,10 +5,13 @@ website:
   title: "xrrna.bio"
   navbar:
     background: light
-    right:
+    left:
       - href: index.qmd
         text: Home
       - about.qmd 
+    right:
+      - icon: github
+        href: https://github.com/xrRNA-bio
   page-footer:
     right:
       - text: "Legal Note"

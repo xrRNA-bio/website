@@ -1,0 +1,37 @@
+---
+title: "PhD position in structural RNA bioinformatics"
+subtitle: "We are seeking an outstanding candidate for a PhD position in computational RNA biology to join our team in Vienna, Austria"
+date: "2023-01-27"
+categories: ["Jobs"]
+title-block-banner: true
+---
+A fully funded three-year PhD position is open at the [Wolfinger lab](https://michaelwolfinger.com), Research Group Bioinformatics and Computational Biology, Faculty of Computer Sciences, University of Vienna, Austria. We are recruiting a highly motivated PhD candidate to join our team and help us understand the intricate mechanisms of structured viral RNAs in Synthetic Biology.
+
+## The project
+The research project will be in the field of Computational RNA Biology, focusing on the design of exoribonuclease-resistant RNAs (xrRNAs) and xrRNA ribo-switches. It is part of the FWF/DFG-funded project 'Design of RNAse-resistant RNA structures' in collaboration with Prof. Mario Mörl, Leipzig University, Germany.
+
+## The position
+In this position, you will have the opportunity to work on cutting-edge research questions using state-of-the-art computational techniques for Computational RNA Design to uncover novel insights into Structural RNA Biology. You will be developing novel computational tools for Synthetic Virus Bioinformatics and you will also have the opportunity to collaborate with experimentalists to validate your computational predictions.
+
+## The lab
+Our lab is located alongside the Department of Theoretical Chemistry, University of Vienna, which is the home of the ViennaRNA Package. The lab is equipped with state-of- the-art computational resources, including high-performance computing clusters and access to the main ViennaRNA development team. We are committed to providing a stimulating and supportive environment to help you achieve your research goals and develop your skills as a scientist.
+
+## Your profile:
+The ideal candidate will have
+	
+- a graduation (Diploma or Masters certificate) in Computational Biology, Bioinformatics, Theoretical Chemistry, Physics, Mathematics, Computer Sciences, or a related field
+- dedication and enthusiasm about computational RNA structure prediction and algorithm development
+- strong programming skills in C/C++, and Python
+- experience in machine learning techniques
+- a critical and analytical mind, and team spirit
+- excellent English skills
+
+Previous experience in RNA structure prediction, as well as software development are an asset.
+
+## Salary
+The salary follows the standard [FWF personnel cost guidelines](https://www.fwf.ac.at/en/research-funding/personnel-costs).
+
+If you are excited about the opportunity to contribute to the field of Synthetic and Computational RNA Biology and make a real impact, we would love to hear from you. Send your letter of motivation, CV, detailed description of project-related experiences and technical skills, university certificates, and contact data of at least one reference as a single PDF file by email to [jobs@xrrna.bio](mailto:jobs@xrrna.bio).
+
+[Download the PhD position announcement as PDF](https://xrrna.bio/files/xrRNA_PhD_Advertisement_xrrna-bio.pdf)
+
